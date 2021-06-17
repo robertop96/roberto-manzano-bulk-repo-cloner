@@ -13,7 +13,7 @@ const octokit = new Octokit({
 });
 
 // octokit options variables
-const username = 'robertop96';
+const username = process.env.USERNAME;
 let per_page = 100;
 
 //api call via octokit
