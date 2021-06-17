@@ -1,0 +1,86 @@
+[
+  {
+    url: 'git@github.com:ARoibu/andrei-roibu-travelsite.git',
+    name: 'ARoibu'
+  },
+  {
+    url: 'git@github.com:aymeeflores/travel-site.git',
+    name: 'aymeeflores'
+  },
+  { url: 'git@github.com:Betty2846/travelsite.git', name: 'Betty2846' },
+  {
+    url: 'git@github.com:dixierhodes/dixie-rhodes-travelsite.git',
+    name: 'dixierhodes'
+  },
+  { url: 'git@github.com:emcorusa/travel-site.git', name: 'emcorusa' },
+  {
+    url: 'git@github.com:Fenrir9000/travel-site.git',
+    name: 'Fenrir9000'
+  },
+  {
+    url: 'git@github.com:harrison-elkins/harrison-elkins-travelsite.git',
+    name: 'harrison-elkins'
+  },
+  {
+    url: 'git@github.com:jennifer031907/Travel-Site.git',
+    name: 'jennifer031907'
+  },
+  {
+    url: 'git@github.com:Josh-D18/josh-date-travelsite.git',
+    name: 'Josh-D18'
+  },
+  { url: 'git@github.com:katieagne/travelsite.git', name: 'katieagne' },
+  {
+    url: 'git@github.com:mgainer126/matthew-gainer-travelsite.git',
+    name: 'mgainer126'
+  },
+  {
+    url: 'git@github.com:mhollingshead/travel-site.git',
+    name: 'mhollingshead'
+  },
+  {
+    url: 'git@github.com:MichaelNoguera03/michael-noguera-travelsite.git',
+    name: 'MichaelNoguera03'
+  },
+  {
+    url: 'git@github.com:Mitchellclev/mitchell-cleveland-travelsite.git',
+    name: 'Mitchellclev'
+  },
+  {
+    url: 'git@github.com:MjxOro/Travel-Website-Project.git',
+    name: 'MjxOro'
+  },
+  {
+    url: 'git@github.com:MohamedAweisM/TravelSite.git',
+    name: 'MohamedAweisM'
+  },
+  {
+    url: 'git@github.com:Musical-Bonesie/signe-b-travel-site.git',
+    name: 'Musical-Bonesie'
+  },
+  {
+    url: 'git@github.com:niralivadsaria/travel-site.git',
+    name: 'niralivadsaria'
+  },
+  {
+    url: 'git@github.com:preethib5/Preeth-Boina-TravelSite.git',
+    name: 'preethib5'
+  },
+  { url: 'git@github.com:quikegc/trravelsite.git', name: 'quikegc' },
+  {
+    url: 'git@github.com:swaggaquil/aquil-johnston-travel-site.git',
+    name: 'swaggaquil'
+  },
+  {
+    url: 'git@github.com:t-awotunde/thaddeus-awotunde-travelsite.git',
+    name: 't-awotunde'
+  },
+  {
+    url: 'git@github.com:tanseanzy/travelsite-project.git',
+    name: 'tanseanzy'
+  },
+  {
+    url: 'git@github.com:vincowu/vinco-wu-travelsite.git',
+    name: 'vincowu'
+  }
+]
