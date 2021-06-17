@@ -39,7 +39,7 @@ octokit.rest.repos
       // child_process
       exec(
         // Reset directory location, creates student directory and clones project inside.
-        `cd && cd Desktop/repos/ && mkdir ${student.name}-travelsite && cd ${student.name}-travelsite/ && git clone ${student.url}`,
+        ` mkdir -p repositories && cd repositories/ && mkdir ${student.name}-travelsite && cd ${student.name}-travelsite/ && git clone ${student.url}`,
         (error, stdout, stderr) => {
           if (error) {
             console.log(`error: ${error.message}`);
