@@ -26,7 +26,7 @@ octokit.rest.repos
   .then((repos) => {
     const repositoryList = [];
     // Filters repositories that don't contain certain word.
-    let studentRepositories = repos.data.filter((obj) => obj.name.includes('ravel'));
+    let studentRepositories = repos.data.filter((obj) => obj.name.includes('brain'));
     studentRepositories.map((repository) => {
       // Creates and pushes student object.
       let studentInfo = {};
@@ -39,7 +39,7 @@ octokit.rest.repos
       // child_process
       exec(
         // Reset directory location, creates student directory and clones project inside.
-        ` mkdir -p repositories && cd repositories/ && mkdir ${student.name}-travelsite && cd ${student.name}-travelsite/ && git clone ${student.url}`,
+        ` mkdir -p repositories && cd repositories && git clone ${student.url}`,
         (error, stdout, stderr) => {
           if (error) {
             console.log(`error: ${error.message}`);

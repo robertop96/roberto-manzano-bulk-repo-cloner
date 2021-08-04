@@ -3,6 +3,7 @@
 .pnp.js
 .env
 /node_modules
+repositories
 
 # testing
 /coverage
